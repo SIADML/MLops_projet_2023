@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bapti/OneDrive/Bureau/MlOps/mlruns/0/749dfbc44b4842149820ff3a862a9d1b/artifacts
+end_time: 1703265637486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 749dfbc44b4842149820ff3a862a9d1b
+run_name: Logistic Regression Models
+run_uuid: 749dfbc44b4842149820ff3a862a9d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703265632692
+status: 3
+tags: []
+user_id: bapti
